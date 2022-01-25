@@ -21,7 +21,7 @@ In total six agents have been compared:
 <br><br>
 
 <figure>
-<img src="./imgs/chart_3.jpeg" alt="Example of agents performance against baseline agent and human players." width="400" height="300">
+<img src="./imgs/chart_3.jpeg" alt="Example of agents performance against baseline agent and human players." width="571" height="400">
 <figcaption align = "center"><b>Fig.1 - Example of agents performance against baseline agent and human players.</b></figcaption>
 </figure>
 
