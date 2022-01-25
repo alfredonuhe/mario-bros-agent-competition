@@ -27,7 +27,7 @@ In total six agents have been compared:
 
 <br><br>
 
-Out of the four developed agents in the assignment QBot is the best performing angent with the following stats:
+Out of the four agents developed for the assignment, QBot is the best performing angent with the following stats:
 
 Description  | Value
 ------------- | -------------
